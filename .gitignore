@@ -1,0 +1,13 @@
+tmp/
+__pycache__/
+test.ipynb
+tasks_bak.yaml
+logs/
+MedEvalKit/
+results/
+todo.txt
+*.zip
+.env
+.DS_Store
+config.py
+images/
