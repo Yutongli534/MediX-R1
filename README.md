@@ -16,4 +16,4 @@
 
 - 训练数据：[MBZUAI/medix-rl-data](https://huggingface.co/datasets/MBZUAI/medix-rl-data)
 - `config.py`（LLM judge 的 API 配置）不入库，请按 `training/examples/reward_function/medical.py` 中的 `LLM_CONFIG` 字段（`base_url` / `api_key` / `model_name`）自行创建
-- 训练曲线与评测结果等产出文件未包含在本仓库
+- `images/` 为训练曲线与训练报告，`eval2/results/`、`eval2/logs/` 为一次评测的产出记录

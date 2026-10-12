@@ -10,4 +10,7 @@ todo.txt
 .env
 .DS_Store
 config.py
-images/
+!eval2/results/
+!eval2/results/**
+!eval2/logs/
+!eval2/logs/**
