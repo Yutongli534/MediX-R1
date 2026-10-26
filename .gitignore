@@ -14,3 +14,10 @@ config.py
 !eval2/results/**
 !eval2/logs/
 !eval2/logs/**
+
+# Agent layer
+medix-agent-swarm/.claude/settings.local.json
+medix-agent-swarm/config.py
+medix-agent-swarm/session_summaries/
+medix-agent-swarm/agent_identities/
+*.mp4
